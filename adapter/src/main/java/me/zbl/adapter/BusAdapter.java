@@ -25,6 +25,7 @@ package me.zbl.adapter;
 
 /**
  * 公共汽车适配器
+ * 对象适配器
  */
 public class BusAdapter implements Car {
 
